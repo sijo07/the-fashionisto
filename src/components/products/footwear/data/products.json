@@ -1,0 +1,204 @@
+[
+    {
+      "id": 1,
+      "brand": "Woakers",
+      "desc": "Synthetic Leather Lace Up Mens Casual Shoes",
+      "price": "999",
+      "del": "3299",
+      "src": "assets/products/casualshoes/Woakers_1.jpg",
+      "category": "footwear",
+      "type": "casualshoes"
+    },
+    {
+      "id": 2,
+      "brand": "Woakers",
+      "desc": "Synthetic Leather Lace Up Mens Casual Shoes",
+      "price": "999",
+      "del": "3299",
+      "src": "assets/products/casualshoes/Woakers_2.jpg",
+      "category": "footwear",
+      "type": "casualshoes"
+    },
+    {
+      "id": 3,
+      "brand": "Woakers",
+      "desc": "Synthetic Leather Lace Up Mens Casual Shoes",
+      "price": "999",
+      "del": "3299",
+      "src": "assets/products/casualshoes/Woakers_3.jpg",
+      "category": "footwear",
+      "type": "casualshoes"
+    },
+    {
+      "id": 4,
+      "brand": "Clarks",
+      "desc": "Leather Low Tops Slipon Mens Loafers",
+      "price": "5999",
+      "del": "7999",
+      "src": "assets/products/casualshoes/Clarks.jpg",
+      "category": "footwear",
+      "type": "casualshoes"
+    },
+    {
+      "id": 5,
+      "brand": "Buckaroo",
+      "desc": "Verona Leather Lace Up Men's Casual Boots",
+      "price": "3499",
+      "del": "4999",
+      "src": "assets/products/boots/Buckaroo_2.jpg",
+      "category": "footwear",
+      "type": "boots"
+    },
+    {
+      "id": 6,
+      "brand": "Buckaroo",
+      "desc": "Sherlock Leather Slipon Mens Casual Boots",
+      "price": "2699",
+      "del": "5999",
+      "src": "assets/products/boots/Buckaroo_1.jpg",
+      "category": "footwear",
+      "type": "boots"
+    },
+    {
+      "id": 7,
+      "brand": "Jack And Jones",
+      "desc": "JFW Fang Leather Lace Up Mens Boots",
+      "price": "5999",
+      "del": "7999",
+      "src": "assets/products/boots/j&j.jpg",
+      "category": "footwear",
+      "type": "boots"
+    },
+    {
+      "id": 8,
+      "brand": "Lee Cooper",
+      "desc": "Leather Lace Up Men's Casual Boots",
+      "price": "2449",
+      "del": "3499",
+      "src": "assets/products/boots/Lee_Cooper.jpg",
+      "category": "footwear",
+      "type": "boots"
+    },
+    {
+      "id": 9,
+      "brand": "Lee Cooper",
+      "desc": "Leather Lace Up Men's Derby Shoes",
+      "price": " 2449",
+      "del": "3499",
+      "src": "assets/products/formalshoes/Lee_Cooper.jpg",
+      "category": "footwear",
+      "type": "formalshoes"
+    },
+    {
+      "id": 10,
+      "brand": "Four Star",
+      "desc": "Synthetic Leather Slipon Regular Men's Formal Shoes",
+      "price": "999",
+      "del": "3499",
+      "src": "assets/products/formalshoes/Four_Star.jpg",
+      "category": "footwear",
+      "type": "formalshoes"
+    },
+    {
+      "id": 11,
+      "brand": "Louis Philippe",
+      "desc": "Leather Slipon Mainline Men's Formal Shoes",
+      "price": "4499",
+      "del": "5999",
+      "src": "assets/products/formalshoes/Louis_Philippe.jpg",
+      "category": "footwear",
+      "type": "formalshoes"
+    },
+  
+    {
+      "id": 12,
+      "brand": "Buckaroo",
+      "desc": "Perri Leather Lace Up Men's Formal Shoes",
+      "price": "3795",
+      "del": "4995",
+      "src": "assets/products/formalshoes/Buckaroo.jpg",
+      "category": "footwear",
+      "type": "formalshoes"
+    },
+    {
+      "id": 13,
+      "brand": "Adidas",
+      "desc": "Aditron M Synthetic Mesh Low Tops Lace Up Mens Sport Shoes",
+      "price": "2999",
+      "del": "3999",
+      "src": "assets/products/sportsshoes/Adidas.jpg",
+      "category": "footwear",
+      "type": "sportsshoes"
+    },
+    {
+      "id": 14,
+      "brand": "Puma",
+      "desc": "Bmw Mms Maco SL Textile Lace Up Men's Sport Shoes",
+      "price": "9999",
+      "del": "10999",
+      "src": "assets/products/sportsshoes/Puma.jpg",
+      "category": "footwear",
+      "type": "sportsshoes"
+    },
+    {
+      "id": 15,
+      "brand": "Puma",
+      "desc": "Mapf Neo Synthetic Lace Up Men's Sport Shoes",
+      "price": "4799",
+      "del": "7999",
+      "src": "assets/products/sportsshoes/Puma_1.jpg",
+      "category": "footwear",
+      "type": "sportsshoes"
+    },
+    {
+      "id": 16,
+      "brand": "Jack And Jones",
+      "desc": "JFW Johnson Polyester Lace Up Mens Sneakers",
+      "price": "1749",
+      "del": "3499",
+      "src": "assets/products/sportsshoes/Jack&Jones.jpg",
+      "category": "footwear",
+      "type": "sportsshoes"
+    },
+    {
+      "id": 17,
+      "brand": "USPolo",
+      "desc": "Patt Polyurethane Regular Sandals",
+      "price": "999",
+      "del": "1499",
+      "src": "assets/products/sandals/USPolo.jpg",
+      "category": "footwear",
+      "type": "sandals"
+    },
+    {
+      "id": 18,
+      "brand": "Clarks",
+      "desc": "Leather Low Tops Slipon Mens Sandals",
+      "price": "4999",
+      "del": "5999",
+      "src": "assets/products/sandals/Clarks.jpg",
+      "category": "footwear",
+      "type": "sandals"
+    },
+    {
+      "id": 19,
+      "brand": "Jack And Jones",
+      "desc": "Polyester Regular Slipon Mens Sandals",
+      "price": "999",
+      "del": "1499",
+      "src": "assets/products/sandals/j&j.jpg",
+      "category": "footwear",
+      "type": "sandals"
+    },
+    {
+      "id": 20,
+      "brand": "yoho",
+      "desc": "Oaks EVA Slipon Men's Slippers",
+      "price": "999",
+      "del": "1499",
+      "src": "assets/products/sandals/yoho.jpg",
+      "category": "footwear",
+      "type": "sandals"
+    }
+  ]
+  

@@ -1,0 +1,164 @@
+[
+    {
+      "id": 1,
+      "brand": "XYXX",
+      "desc": "Briefs with Signature Branding",
+      "price": "499",
+      "del": "599",
+      "src": "assets/products/briefs/xyxx.jpg",
+      "category": "innerwear",
+      "type": "briefs"
+    },
+    {
+      "id": 2,
+      "brand": "JOCKEY",
+      "desc": "Cotton Briefs with Elasticated Waistband",
+      "price": "399",
+      "del": "599",
+      "src": "assets/products/briefs/jockey.jpg",
+      "category": "innerwear",
+      "type": "briefs"
+    },
+    {
+      "id": 3,
+      "brand": "VAN HEUSEN",
+      "desc": "Antibacterial & Colour Fresh Briefs",
+      "price": "399",
+      "del": "499",
+      "src": "assets/products/briefs/VAN_HEUSEN.jpg",
+      "category": "innerwear",
+      "type": "briefs"
+    },
+    {
+      "id": 4,
+      "brand": "SUPERDRY",
+      "desc": "Brand Print Waistband Trunks",
+      "price": "699",
+      "del": "999",
+      "src": "assets/products/briefs/superdry.jpg",
+      "category": "innerwear",
+      "type": "briefs"
+    },
+    {
+      "id": 5,
+      "brand": "SUPERDRY",
+      "desc": "Brand-Knit Waistband Trunks",
+      "price": "699",
+      "del": "999",
+      "src": "assets/products/trunks/superdry.jpg",
+      "category": "innerwear",
+      "type": "trunks"
+    },
+    {
+      "id": 6,
+      "brand": "DOLLAR",
+      "desc": "dollar cotton trunks",
+      "price": "399",
+      "del": "699",
+      "src": "assets/products/trunks/dollar.jpg",
+      "category": "innerwear",
+      "type": "trunks"
+    },
+    {
+      "id": 7,
+      "brand": "xyxx",
+      "desc": "Trunks with Elasticated Waistband",
+      "price": "499",
+      "del": "699",
+      "src": "assets/products/trunks/xyxx.jpg",
+      "category": "innerwear",
+      "type": "trunks"
+    },
+    {
+      "id": 8,
+      "brand": "DAMENSCH",
+      "desc": "Print Waistband Trunk",
+      "price": "399",
+      "del": "599",
+      "src": "assets/products/trunks/DAMENSCH.jpg",
+      "category": "innerwear",
+      "type": "trunks"
+    },
+    {
+      "id": 9,
+      "brand": "JOHN GREY",
+      "desc": "Printed Mid-Rise Boxers",
+      "price": " 299",
+      "del": "499",
+      "src": "assets/products/boxers/john_grey.jpg",
+      "category": "innerwear",
+      "type": "boxers"
+    },
+    {
+      "id": 10,
+      "brand": "URBAN DOG",
+      "desc": "Micro Print Boxer with Elasticated Waistband",
+      "price": "299",
+      "del": "499",
+      "src": "assets/products/boxers/URBAN_DOG.jpg",
+      "category": "innerwear",
+      "type": "boxers"
+    },
+    {
+      "id": 11,
+      "brand": "CROSS CREEK",
+      "desc": "Checked Boxers with Elasticated Waist",
+      "price": "299",
+      "del": "499",
+      "src": "assets/products/boxers/CROSS_CREEK.jpg",
+      "category": "innerwear",
+      "type": "boxers"
+    },
+  
+    {
+      "id": 12,
+      "brand": "JOHN GREY",
+      "desc": "Printed Mid-Rise Boxers",
+      "price": "299",
+      "del": "499",
+      "src": "assets/products/boxers/JOHN_GREY1.jpg",
+      "category": "innerwear",
+      "type": "boxers"
+    },
+    {
+      "id": 13,
+      "brand": "BREAKPOINT",
+      "desc": "Graphic Print Round-Neck Vest",
+      "price": "299",
+      "del": "499",
+      "src": "assets/products/vests/BREAKPOINT.jpg",
+      "category": "innerwear",
+      "type": "vests"
+    },
+    {
+      "id": 14,
+      "brand": "JOCKEY",
+      "desc": "Cotton QuickDry Vest",
+      "price": "399",
+      "del": "599",
+      "src": "assets/products/vests/JOCKEY.jpg",
+      "category": "innerwear",
+      "type": "vests"
+    },
+    {
+      "id": 15,
+      "brand": "JUMP CUTS",
+      "desc": "Geometric Print Crew-Neck Vests",
+      "price": "399",
+      "del": "599",
+      "src": "assets/products/vests/JUMP CUTS.jpg",
+      "category": "innerwear",
+      "type": "vests"
+    },
+    {
+      "id": 16,
+      "brand": "Jack And Jones",
+      "desc": "Typographic Print Sleeveless Vest",
+      "price": "499",
+      "del": "699",
+      "src": "assets/products/vests/Jack&Jones.jpg",
+      "category": "innerwear",
+      "type": "vests"
+    }
+  ]
+  

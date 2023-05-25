@@ -1,0 +1,244 @@
+[
+    {
+      "id": 1,
+      "brand": "EYEWEARLABS",
+      "desc": "UV-Protected Polarised Square Sunglasses",
+      "price": "1999",
+      "del": "3599",
+      "src": "assets/products/sunglasses/EYEWEARLABS.jpg",
+      "category": "accessories",
+      "type":"sunglasses"
+    },
+    {
+      "id": 2,
+      "brand": "RESIST EYEWEAR",
+      "desc": "SERGIUSBFBLACK UV-Protected Wayfarers",
+      "price": "1999",
+      "del": "4999",
+      "src": "assets/products/sunglasses/RESIST_EYEWEAR.jpg",
+      "category": "accessories",
+      "type":"sunglasses"
+    },
+    {
+      "id": 3,
+      "brand": "EYEWEARLABS",
+      "desc": "Full-Rim Polarized Aviator Sunglasses",
+      "price": "1999",
+      "del": "3599",
+      "src": "assets/products/sunglasses/EYEWEARLABS_1.jpg",
+      "category": "accessories",
+      "type":"sunglasses"
+    },
+    {
+      "id": 4,
+      "brand": "EYEWEARLABS",
+      "desc": "UV-Protected Polarised Square Sunglasses",
+      "price": "1999",
+      "del": "3599",
+      "src": "assets/products/sunglasses/EYEWEARLABS_2.jpg",
+      "category": "accessories",
+      "type":"sunglasses"
+    },
+    {
+      "id": 5,
+      "brand": "JOCKEY",
+      "desc": "Pack of 3 Cotton Athletic Socks",
+      "price": "599",
+      "del": "899",
+      "src": "assets/products/socks/JOCKEY.jpg",
+      "category": "accessories",
+      "type":"socks"
+    },
+    {
+      "id": 6,
+      "brand": "PUMA",
+      "desc": "Pack of 2 Ankle-Length Everyday Socks",
+      "price": "499",
+      "del": "699",
+      "src": "assets/products/socks/puma.jpg",
+      "category": "accessories",
+      "type":"socks"
+    },
+    {
+      "id": 7,
+      "brand": "SUPERDRY",
+      "desc": "Set of 3 Coolmax Crew Socks",
+      "price": "2,599",
+      "del": "3599",
+      "src": "assets/products/socks/SUPERDRY.jpg",
+      "category": "accessories",
+      "type":"socks"
+    },
+    {
+      "id": 8,
+      "brand": "ALLEN SOLLY",
+      "desc": "Solid Ankle-Length Socks",
+      "price": "699",
+      "del": "999",
+      "src": "assets/products/socks/ALLEN_SOLLY.jpg",
+      "category": "accessories",
+      "type":"socks"
+    },
+    {
+      "id": 9,
+      "brand": "MATCHITT",
+      "desc": "Men Printed Baseball Cap",
+      "price": " 499",
+      "del": "699",
+      "src": "assets/products/cap/MATCHITT.jpg",
+      "category": "accessories",
+      "type":"caps"
+    },
+    {
+      "id": 10,
+      "brand": "PUMA",
+      "desc": "Men Logo Print Baseball Cap ",
+      "price": "999",
+      "del": "1299",
+      "src": "assets/products/cap/PUMA_1.jpg",
+      "category": "accessories",
+      "type":"caps"
+    },
+    {
+      "id": 11,
+      "brand": "PUMA",
+      "desc": "Men Baseball Cap with Logo Print",
+      "price": "899",
+      "del": "1199",
+      "src": "assets/products/cap/PUMA.jpg",
+      "category": "accessories",
+      "type":"caps"
+    },
+  
+    {
+      "id": 12,
+      "brand": "MATCHITT",
+      "desc": "Men Embroidered Baseball Cap",
+      "price": "499",
+      "del": "999",
+      "src": "assets/products/cap/MATCHITT_1.jpg",
+      "category": "accessories",
+      "type":"caps"
+    },
+    {
+      "id": 13,
+      "brand": "WINSOME DEAL",
+      "desc": "Solid Belt",
+      "price": "999",
+      "del": "1429",
+      "src": "assets/products/belts/WINSOME_DEAL.jpg",
+      "category": "accessories",
+      "type":"belts"
+    },
+    {
+      "id": 14,
+      "brand": "KASTNER",
+      "desc": "Set of 2 Leather Belts",
+      "price": "999",
+      "del": "1399",
+      "src": "assets/products/belts/KASTNER.jpg",
+      "category": "accessories",
+      "type":"belts"
+    },
+    {
+      "id": 15,
+      "brand": "LOUIS PHILIPPE",
+      "desc": "Reversible Classic Belt",
+      "price": "1,399",
+      "del": "1999",
+      "src": "assets/products/belts/LOUIS_PHILIPPE.jpg",
+      "category": "accessories",
+      "type":"belts"
+    },
+    {
+      "id": 16,
+      "brand": "KASTNER",
+      "desc": "Classic Belt with Buckle",
+      "price": "999",
+      "del": "1699",
+      "src": "assets/products/belts/KASTNER_1.jpg",
+      "category": "accessories",
+      "type":"belts"
+    },
+    {
+      "id": 17,
+      "brand": "TIGER MARRON",
+      "desc": "Leather Travel Bag",
+      "price": "10075",
+      "del": "15500",
+      "src": "assets/products/bags/TIGER_MARRON.jpg",
+      "category": "accessories",
+      "type":"bags"
+    },
+    {
+      "id": 18,
+      "brand": "AXEN BAGS",
+      "desc": "Duffel Bag with Adjustable Strap",
+      "price": "399",
+      "del": "499",
+      "src": "assets/products/bags/AXEN_BAGS.jpg",
+      "category": "accessories",
+      "type":"bags"
+    },
+    {
+      "id": 19,
+      "brand": "POLICE",
+      "desc": "Printed Duffle Assorted Bag",
+      "price": "4999",
+      "del": "5999",
+      "src": "assets/products/bags/POLICE.jpg",
+      "category": "accessories",
+      "type":"bags"
+    },
+    {
+      "id": 20,
+      "brand": "ASTRID",
+      "desc": "One Compartment Duffle Bag with Adjustable Strap",
+      "price": "699",
+      "del": "1299",
+      "src": "assets/products/bags/ASTRID.jpg",
+      "category": "accessories",
+      "type":"bags"
+    },
+    {
+      "id": 21,
+      "brand": "FOSSIL",
+      "desc": "Fossilme3098imd rd blk brn stp",
+      "price": "19,995",
+      "del": "22,995",
+      "src": "assets/products/watches/FOSSIL.jpg",
+      "category": "accessories",
+      "type":"watches"
+    },
+    {
+      "id": 22,
+      "brand": "TITAN",
+      "desc": "NP1762KL01 Water-Resistant Analogue Watch",
+      "price": "9,815",
+      "del": "12,815",
+      "src": "assets/products/watches/TITAN.jpg",
+      "category": "accessories",
+      "type":"watches"
+    },
+    {
+      "id": 23,
+      "brand": "ZEPPELIN",
+      "desc": "84425 GMT Analogue Watch",
+      "price": "18,375",
+      "del": "24500",
+      "src": "assets/products/watches/ZEPPELIN.jpg",
+      "category": "accessories",
+      "type":"watches"
+    },
+    {
+      "id": 24,
+      "brand": "DANIEL KLEIN",
+      "desc": "DK11599-4 Water-Resistant Analogue Watch",
+      "price": "3599",
+      "del": "5500",
+      "src": "assets/products/watches/DANIEL_KLEIN.jpg",
+      "category": "accessories",
+      "type":"watches"
+    }
+  ]
+  
