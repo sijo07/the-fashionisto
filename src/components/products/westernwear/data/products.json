@@ -1,244 +1,243 @@
 [
-    {
-      "id": 1,
-      "brand": "Infuse",
-      "desc": "Printed Cotton Comfort Fit Men's Casual Shirt",
-      "price": "499",
-      "del": "999",
-      "src": "assets/products/shirts/Infuse.jpg",
-      "category": "westernwear",
-      "type":"shirt"
-    },
-    {
-      "id": 2,
-      "brand": "Infuse",
-      "desc": "Printed Cotton Comfort Fit Men's Casual Shirt",
-      "price": "499",
-      "del": "1199",
-      "src": "assets/products/shirts/Infuse-1.jpg",
-      "category": "westernwear",
-      "type":"shirt"
-    },
-    {
-      "id": 3,
-      "brand": "Rare Rabbit",
-      "desc": "Solid Cotton Slim Fit Men's Casual Shirt",
-      "price": "1799",
-      "del": "",
-      "src": "assets/products/shirts/RareRabbit.jpg",
-      "category": "westernwear",
-      "type":"shirt"
-    },
-    {
-      "id": 4,
-      "brand": "Fratini",
-      "desc": "Stripes Cotton Slim Fit Men's Shirt",
-      "price": "999",
-      "del": "1999",
-      "src": "assets/products/shirts/Fratini-2.jpg",
-      "category": "westernwear",
-      "type":"shirt"
-    },
-    {
-      "id": 5,
-      "brand": "life",
-      "desc": "Mid Wash Cotton Blend Slim Fit Men's Jeans",
-      "price": "1099",
-      "del": "2199",
-      "src": "assets/products/jeans/Life.jpg",
-      "category": "westernwear",
-      "type":"jean"
-    },
-    {
-      "id": 6,
-      "brand": "Life",
-      "desc": "Mid Wash Cotton Blend Relaxed Fit Men's Jeans",
-      "price": "1099",
-      "del": "2199",
-      "src": "assets/products/jeans/Life_1.jpg",
-      "category": "westernwear",
-      "type":"jean"
-    },
-    {
-      "id": 7,
-      "brand": "Life",
-      "desc": "Cotton Elastane Mid Slim Fit Men's Jeans",
-      "price": "999",
-      "del": "1999",
-      "src": "assets/products/jeans/life_2.jpg",
-      "category": "westernwear",
-      "type":"jean"
-    },
-    {
-      "id": 8,
-      "brand": "Life",
-      "desc": "Mid Wash Cotton Blend Relaxed Fit Men's Jeans",
-      "price": "1099",
-      "del": "2199",
-      "src": "assets/products/jeans/Life_3.jpg",
-      "category": "westernwear",
-      "type":"jean"
-    },
-    {
-      "id": 9,
-      "brand": "Louis Philippe Sports",
-      "desc": "Solid Polyester Regular Fit Mens Jacket",
-      "price": " 2399",
-      "del": "3999",
-      "src": "assets/products/jackets/Lp.jpg",
-      "category": "westernwear",
-      "type":"jacket"
-    },
-    {
-      "id": 10,
-      "brand": "Louis Philippe Jeans",
-      "desc": "Polyester Front Zip Regular Fit Men's Casual ",
-      "price": "2999",
-      "del": "4999",
-      "src": "assets/products/jackets/Lp_1.jpg",
-      "category": "westernwear",
-      "type":"jacket"
-    },
-    {
-      "id": 11,
-      "brand": "Jack And Jones",
-      "desc": "Printed Cotton Comfort Fit Men's Casual Shirt",
-      "price": "499",
-      "del": "1199",
-      "src": "assets/products/jackets/j&j.jpg",
-      "category": "westernwear",
-      "type":"jacket"
-    },
-  
-    {
-      "id": 12,
-      "brand": "Life",
-      "desc": "Cotton Blend Button Regular Fit Men's Casual ",
-      "price": "2499",
-      "del": "3999",
-      "src": "assets/products/jackets/Life_1.jpg",
-      "category": "westernwear",
-      "type":"jacket"
-    },
-    {
-      "id": 13,
-      "brand": "Jack And Jones",
-      "desc": "Solid Cotton Regular Fit Men's Sweatshirt",
-      "price": "2099",
-      "del": "3499",
-      "src": "assets/products/sweatshirts/jj.jpg",
-      "category": "westernwear",
-      "type":"sweatshirt"
-    },
-    {
-      "id": 14,
-      "brand": "Stop",
-      "desc": "Solid Cotton Regular Fit Men's Sweatshirts",
-      "price": "999",
-      "del": "1499",
-      "src": "assets/products/sweatshirts/Stop.jpg",
-      "category": "westernwear",
-      "type":"sweatshirt"
-    },
-    {
-      "id": 15,
-      "brand": "Rigo",
-      "desc": "Solid Fleece Regular Men's Sweatshirt",
-      "price": "999",
-      "del": "1499",
-      "src": "assets/products/sweatshirts/rigo.jpg",
-      "category": "westernwear",
-      "type":"sweatshirt"
-    },
-    {
-      "id": 16,
-      "brand": "Rigo",
-      "desc": "Printed Fleece Regular Fit Men's Sweatshirt",
-      "price": "999",
-      "del": "1499",
-      "src": "assets/products/sweatshirts/rigo_1.jpg",
-      "category": "westernwear",
-      "type":"sweatshirt"
-    },
-    {
-      "id": 17,
-      "brand": "Life",
-      "desc": "Printed Cotton Relaxed Fit Men's T-Shirts",
-      "price": "899",
-      "del": "1299",
-      "src": "assets/products/tshirts/Life.jpg",
-      "category": "westernwear",
-      "type":"tshirt"
-    },
-    {
-      "id": 18,
-      "brand": "Infuse",
-      "desc": "Graphic Cotton Regular Fit Men's T-Shirt",
-      "price": "699",
-      "del": "1299",
-      "src": "assets/products/tshirts/Infuse.jpg",
-      "category": "westernwear",
-      "type":"tshirt"
-    },
-    {
-      "id": 19,
-      "brand": "Infuse",
-      "desc": "Graphic Cotton Regular Fit Men's T-Shirt",
-      "price": "699",
-      "del": "1299",
-      "src": "assets/products/tshirts/Infuse_1.jpg",
-      "category": "westernwear",
-      "type":"tshirt"
-    },
-    {
-      "id": 20,
-      "brand": "Infuse",
-      "desc": "Graphic Cotton Regular Fit Men's T-Shirt",
-      "price": "699",
-      "del": "1299",
-      "src": "assets/products/tshirts/Infuse_3.jpg",
-      "category": "westernwear",
-      "type":"tshirt"
-    },
-    {
-      "id": 21,
-      "brand": "Stop",
-      "desc": "Solid Cotton Mens Shorts",
-      "price": "899",
-      "del": "1299",
-      "src": "assets/products/shorts/Stop.jpg",
-      "category": "westernwear",
-      "type":"shorts"
-    },
-    {
-      "id": 22,
-      "brand": "Life",
-      "desc": "Solid Cotton Stretch Button Mens Shorts",
-      "price": "999",
-      "del": "1799",
-      "src": "assets/products/shorts/Life.jpg",
-      "category": "westernwear",
-      "type":"shorts"
-    },
-    {
-      "id": 23,
-      "brand": "Stop",
-      "desc": "Solid Cotton Elastic and Drawstring Men's Shorts",
-      "price": "699",
-      "del": "999",
-      "src": "assets/products/shorts/Stop_1.jpg",
-      "category": "westernwear",
-      "type":"shorts"
-    },
-    {
-      "id": 24,
-      "brand": "Life",
-      "desc": "Printed Cotton Drawcord Closure Men's Shorts",
-      "price": "699",
-      "del": "1299",
-      "src": "assets/products/shorts/Life_1.jpg",
-      "category": "westernwear",
-      "type":"shorts"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "brand": "Infuse",
+    "desc": "Printed Cotton Comfort Fit Men's Casual Shirt",
+    "price": "499",
+    "del": "999",
+    "src": "assets/products/shirts/Infuse.jpg",
+    "category": "westernwear",
+    "type": "shirt"
+  },
+  {
+    "id": 2,
+    "brand": "Infuse",
+    "desc": "Printed Cotton Comfort Fit Men's Casual Shirt",
+    "price": "499",
+    "del": "1199",
+    "src": "assets/products/shirts/Infuse-1.jpg",
+    "category": "westernwear",
+    "type": "shirt"
+  },
+  {
+    "id": 3,
+    "brand": "Rare Rabbit",
+    "desc": "Solid Cotton Slim Fit Men's Casual Shirt",
+    "price": "1799",
+    "del": "",
+    "src": "assets/products/shirts/RareRabbit.jpg",
+    "category": "westernwear",
+    "type": "shirt"
+  },
+  {
+    "id": 4,
+    "brand": "Fratini",
+    "desc": "Stripes Cotton Slim Fit Men's Shirt",
+    "price": "999",
+    "del": "1999",
+    "src": "assets/products/shirts/Fratini-2.jpg",
+    "category": "westernwear",
+    "type": "shirt"
+  },
+  {
+    "id": 5,
+    "brand": "life",
+    "desc": "Mid Wash Cotton Blend Slim Fit Men's Jeans",
+    "price": "1099",
+    "del": "2199",
+    "src": "assets/products/jeans/Life.jpg",
+    "category": "westernwear",
+    "type": "jean"
+  },
+  {
+    "id": 6,
+    "brand": "Life",
+    "desc": "Mid Wash Cotton Blend Relaxed Fit Men's Jeans",
+    "price": "1099",
+    "del": "2199",
+    "src": "assets/products/jeans/Life_1.jpg",
+    "category": "westernwear",
+    "type": "jean"
+  },
+  {
+    "id": 7,
+    "brand": "Life",
+    "desc": "Cotton Elastane Mid Slim Fit Men's Jeans",
+    "price": "999",
+    "del": "1999",
+    "src": "assets/products/jeans/life_2.jpg",
+    "category": "westernwear",
+    "type": "jean"
+  },
+  {
+    "id": 8,
+    "brand": "ether",
+    "desc": "Cotton premium Mid Slim Fit Men's Jeans",
+    "price": "1299",
+    "del": "1999",
+    "src": "assets/products/jeans/Life3.jpg",
+    "category": "westernwear",
+    "type": "jean"
+  },
+  {
+    "id": 9,
+    "brand": "Louis Philippe Sports",
+    "desc": "Solid Polyester Regular Fit Mens Jacket",
+    "price": " 2399",
+    "del": "3999",
+    "src": "assets/products/jackets/Lp.jpg",
+    "category": "westernwear",
+    "type": "jacket"
+  },
+  {
+    "id": 10,
+    "brand": "Louis Philippe Jeans",
+    "desc": "Polyester Front Zip Regular Fit Men's Casual ",
+    "price": "2999",
+    "del": "4999",
+    "src": "assets/products/jackets/Lp_1.jpg",
+    "category": "westernwear",
+    "type": "jacket"
+  },
+  {
+    "id": 11,
+    "brand": "Jack And Jones",
+    "desc": "Printed Cotton Comfort Fit Men's Casual Shirt",
+    "price": "499",
+    "del": "1199",
+    "src": "assets/products/jackets/j&j.jpg",
+    "category": "westernwear",
+    "type": "jacket"
+  },
+
+  {
+    "id": 12,
+    "brand": "Life",
+    "desc": "Cotton Blend Button Regular Fit Men's Casual ",
+    "price": "2499",
+    "del": "3999",
+    "src": "assets/products/jackets/Life_1.jpg",
+    "category": "westernwear",
+    "type": "jacket"
+  },
+  {
+    "id": 13,
+    "brand": "Jack And Jones",
+    "desc": "Solid Cotton Regular Fit Men's Sweatshirt",
+    "price": "2099",
+    "del": "3499",
+    "src": "assets/products/sweatshirts/jj.jpg",
+    "category": "westernwear",
+    "type": "sweatshirt"
+  },
+  {
+    "id": 14,
+    "brand": "Stop",
+    "desc": "Solid Cotton Regular Fit Men's Sweatshirts",
+    "price": "999",
+    "del": "1499",
+    "src": "assets/products/sweatshirts/Stop.jpg",
+    "category": "westernwear",
+    "type": "sweatshirt"
+  },
+  {
+    "id": 15,
+    "brand": "Rigo",
+    "desc": "Solid Fleece Regular Men's Sweatshirt",
+    "price": "999",
+    "del": "1499",
+    "src": "assets/products/sweatshirts/rigo.jpg",
+    "category": "westernwear",
+    "type": "sweatshirt"
+  },
+  {
+    "id": 16,
+    "brand": "Rigo",
+    "desc": "Printed Fleece Regular Fit Men's Sweatshirt",
+    "price": "999",
+    "del": "1499",
+    "src": "assets/products/sweatshirts/rigo_1.jpg",
+    "category": "westernwear",
+    "type": "sweatshirt"
+  },
+  {
+    "id": 17,
+    "brand": "Life",
+    "desc": "Printed Cotton Relaxed Fit Men's T-Shirts",
+    "price": "899",
+    "del": "1299",
+    "src": "assets/products/tshirts/Life.jpg",
+    "category": "westernwear",
+    "type": "tshirt"
+  },
+  {
+    "id": 18,
+    "brand": "Infuse",
+    "desc": "Graphic Cotton Regular Fit Men's T-Shirt",
+    "price": "699",
+    "del": "1299",
+    "src": "assets/products/tshirts/Infuse.jpg",
+    "category": "westernwear",
+    "type": "tshirt"
+  },
+  {
+    "id": 19,
+    "brand": "Infuse",
+    "desc": "Graphic Cotton Regular Fit Men's T-Shirt",
+    "price": "699",
+    "del": "1299",
+    "src": "assets/products/tshirts/Infuse_1.jpg",
+    "category": "westernwear",
+    "type": "tshirt"
+  },
+  {
+    "id": 20,
+    "brand": "Infuse",
+    "desc": "Graphic Cotton Regular Fit Men's T-Shirt",
+    "price": "699",
+    "del": "1299",
+    "src": "assets/products/tshirts/Infuse_3.jpg",
+    "category": "westernwear",
+    "type": "tshirt"
+  },
+  {
+    "id": 21,
+    "brand": "Stop",
+    "desc": "Solid Cotton Mens Shorts",
+    "price": "899",
+    "del": "1299",
+    "src": "assets/products/shorts/Stop.jpg",
+    "category": "westernwear",
+    "type": "shorts"
+  },
+  {
+    "id": 22,
+    "brand": "Life",
+    "desc": "Solid Cotton Stretch Button Mens Shorts",
+    "price": "999",
+    "del": "1799",
+    "src": "assets/products/shorts/Life.jpg",
+    "category": "westernwear",
+    "type": "shorts"
+  },
+  {
+    "id": 23,
+    "brand": "Stop",
+    "desc": "Solid Cotton Elastic and Drawstring Men's Shorts",
+    "price": "699",
+    "del": "999",
+    "src": "assets/products/shorts/Stop_1.jpg",
+    "category": "westernwear",
+    "type": "shorts"
+  },
+  {
+    "id": 24,
+    "brand": "Life",
+    "desc": "Printed Cotton Drawcord Closure Men's Shorts",
+    "price": "699",
+    "del": "1299",
+    "src": "assets/products/shorts/Life_1.jpg",
+    "category": "westernwear",
+    "type": "shorts"
+  }
+]
