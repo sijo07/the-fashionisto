@@ -124,10 +124,7 @@ const Product = () => {
         </div>
       </div>
       {showCart && (
-        <div
-          className="fixed  lg:top-26 top-24 py-2 w-[100%] lg:w-[350px] h-[700px] bg-gray-100 p-4 shadow overflow-y-auto"
-          style={{ maxHeight: "80vh" }}
-        >
+        <div className="fixed  lg:top-26 top-16 py-4 w-[100%] h-[100%] lg:w-[350px] bg-white p-4 shadow overflow-y-auto">
           <h2 className="text-2xl font-bold mb-4">Cart Items:</h2>
           {cartItems.map((item) => (
             <div

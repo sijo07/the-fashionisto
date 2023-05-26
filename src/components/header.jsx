@@ -87,7 +87,7 @@ const Header = () => {
                 </button>
               </div>
             </div>
-            <div className="flex flex-col min-h-screen items-center m-10">
+            <div className="flex flex-col min-h-screen items-center py-40">
               <ul className="uppercase">
                 <li
                   onClick={() => setNavigation(false)}

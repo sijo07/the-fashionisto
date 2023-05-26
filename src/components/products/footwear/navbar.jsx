@@ -51,7 +51,7 @@ const Navbar = ({ handleFilterChange }) => {
   };
 
   return (
-    <div className="w-full h-10 z-10 top-16 lg:fixed md:fixed bg-white text-teal-950 duration-300 ease-in">
+    <div className="w-full h-10 z-10 top-16 lg:fixed bg-transparent  lg:bg-white text-teal-950 duration-300 ease-in">
       <div className="flex justify-around items-center w-full h-full max-w-screen-xl mx-auto p-4">
         <div>
           <ul className="hidden md:flex">
@@ -97,7 +97,7 @@ const Navbar = ({ handleFilterChange }) => {
                   onClick={() => setNavigation(false)}
                   className="text-3xl font-bold uppercase tracking-wider cursor-pointer"
                 >
-                  footwear
+                  westernwear
                 </h2>
               </Link>
               <button

@@ -18,7 +18,7 @@ const HeroProduct = () => {
           </div>
           <div>
             <img
-              className="h-80 w-80 object-cover lg:w-[100%] lg:h-[600px]"
+              className="h-70 w-70 object-cover lg:w-[100%] lg:h-[600px]"
               src="assets/shoe_banner.png"
               alt="Hero"
             />

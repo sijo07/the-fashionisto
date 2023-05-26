@@ -3,11 +3,11 @@ import React from "react";
 const HeroProduct = () => {
   return (
     <>
-      <section className="px-3 lg:py-20 py-14 pl  bg-white">
+      <section className="px-3 lg:py-20 py-14 bg-white">
         <div className="grid lg:grid-cols-2 items-center justify-items-center gap-5 pt-3">
           <div>
             <img
-              className="h-80 w-80 object-cover lg:w-[100%] lg:h-[600px]"
+              className="h-70 w-70 object-cover lg:w-[100%] lg:h-[530px]"
               src="assets/accessories_cover.png"
               alt="Hero"
             />
