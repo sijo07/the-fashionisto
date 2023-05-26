@@ -40,7 +40,7 @@ const Footer = () => {
               </div>
               <div className="mb-5">
                 <h4 className="text-2xl pt-2 font-bold capitalize cursor-pointer  tracking-wider">
-                  infromation
+                  information
                 </h4>
                 <ul>
                   <li className="pt-3 text-1lg font-semibold uppercase text-gray-400 hover:text-white cursor-pointer duration-200 ease-out hover:scale-105 tracking-wider">
