@@ -107,7 +107,7 @@ const Product = () => {
                     <del>
                       <p className="text-sm text-gray-600 ml-2">{del}</p>
                     </del>
-                    <div className="ml-auto p">
+                    <div className="ml-auto">
                       <FcPlus
                         size={25}
                         onClick={() =>
@@ -124,7 +124,7 @@ const Product = () => {
         </div>
       </div>
       {showCart && (
-        <div className="fixed  lg:top-26 top-16 py-4 w-[100%] h-[100%] lg:w-[350px] bg-white p-4 shadow overflow-y-auto">
+        <div className="fixed  lg:top-26 top-16 py-10 w-[100%] h-[100%] lg:w-[350px] bg-white p-4 shadow overflow-y-auto">
           <h2 className="text-2xl font-bold mb-4">Cart Items:</h2>
           {cartItems.map((item) => (
             <div
